@@ -1,0 +1,9 @@
+criterio,peso,nota,comentario
+Claridad del planteamiento del problema,0.15,6.8,"Objetivo bien definido, orientado a la detección de anfibios mediante bioacústica; enfoque ecológico y aplicado, muy pertinente."
+Justificación y contexto del experimento,0.10,6.5,"Excelente contextualización con literatura reciente; se reconocen correctamente los avances metodológicos en Chile y Latinoamérica."
+Metodología y organización del notebook,0.20,6.7,"Estructura coherente; se integra teoría, datos y análisis de forma fluida; faltaría mayor detalle sobre la segmentación de audios y preprocesamiento."
+Calidad del código y buenas prácticas,0.15,6.6,"Código limpio y claro; se aprecia manejo de Python y bibliotecas adecuadas; podría incorporar funciones modulares para escalar el análisis."
+Análisis de resultados y visualizaciones,0.15,6.4,"Resultados correctamente descritos; se sugiere incluir gráficos comparativos de características espectrales o matrices de confusión."
+Conclusiones y coherencia con objetivos,0.15,6.7,"Conclusiones sólidas, conectadas con el objetivo general; sería ideal expandir las perspectivas de aplicación en monitoreo real."
+"Redacción, ortografía y estilo general",0.10,6.8,"Texto claro, fluido y formal; muy buena redacción técnica."
+Nota final (ponderada),1.00,6.6,"Trabajo de gran interés y relevancia, con una base conceptual muy bien fundamentada. Se aprecia el potencial de este proyecto para integrarse a líneas de investigación ecoacústica. ¡Felicitaciones por el avance y ánimo para seguir desarrollándolo!"
